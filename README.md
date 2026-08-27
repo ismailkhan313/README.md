@@ -1,6 +1,6 @@
 # Ismail Khan
 
-**Agentic AI Architect | Enterprise AI Systems & Agentic Orchestration**
+**Enterprise AI Systems & Agentic Orchestration**
 
 Architecting scalable, production-grade AI platforms and leading high-velocity engineering organizations. I specialize in bridging non-deterministic AI architectures with enterprise-grade reliability, governance, and agile delivery frameworks.
 
