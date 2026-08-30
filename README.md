@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iikhan/)
 [![Website](https://img.shields.io/badge/ismailkhan.xyz-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.ismailkhan.xyz)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailislamkhan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailkhan.dev@gmail.com)
 ![Profile views](https://komarev.com/ghpvc/?username=ismailkhan313&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS)
 
 </div>
@@ -19,7 +19,7 @@
 
 Architecting scalable, production-grade AI platforms and leading high-velocity engineering organizations. I specialize in bridging non-deterministic AI architectures with enterprise-grade reliability, governance, and agile delivery frameworks.
 
-Currently **Delivery Manager** at The Home Depot and founder of **BADR AI Labs**, based in Canada.
+Currently **Technical Senior Scrum Master / Delivery Lead** at The Home Depot Canada and founder of **BADR AI Labs**, based in Canada.
 
 ## Core Capabilities
 
