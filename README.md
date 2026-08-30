@@ -23,9 +23,9 @@ Currently **Technical Senior Scrum Master / Delivery Lead** at The Home Depot Ca
 
 ## Core Capabilities
 
-- **Enterprise AI & Agentic Architecture** — Multi-agent systems, orchestration frameworks, and robust RAG architectures built for security, scalability, and deterministic reliability.
-- **AI Delivery Management** — End-to-end execution of complex AI programs, from architectural design through enterprise-wide production deployment.
-- **Agile Coaching for AI-First Enterprises** — Adapting legacy delivery and engineering models to optimize for rapid experimentation, LLM lifecycles, and iterative system design.
+- **Enterprise AI & Agentic Architecture:** Multi-agent systems, orchestration frameworks, and robust RAG architectures built for security, scalability, and deterministic reliability.
+- **AI Delivery Management:** End-to-end execution of complex AI programs, from architectural design through enterprise-wide production deployment.
+- **Agile Coaching for AI-First Enterprises:** Adapting legacy delivery and engineering models to optimize for rapid experimentation, LLM lifecycles, and iterative system design.
 
 ## Technical & Strategic Focus
 
@@ -37,31 +37,32 @@ Currently **Technical Senior Scrum Master / Delivery Lead** at The Home Depot Ca
 ![Vector Search](https://img.shields.io/badge/Vector%20Search-0F2027?style=flat-square)
 ![Enterprise AI Security](https://img.shields.io/badge/Enterprise%20AI%20Security-0F2027?style=flat-square)
 
-**Languages & AI Frameworks**
+**Languages & AI Platforms**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google%20ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![CXAS](https://img.shields.io/badge/CXAS-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
-![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Cloud & Platform**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-**Delivery & MLOps**
+**Delivery & Agile**
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+![Rovo Studio](https://img.shields.io/badge/Rovo%20Studio-0052CC?style=flat-square&logo=atlassian&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![CSM](https://img.shields.io/badge/CSM%20(Scrum%20Alliance)-0F2027?style=flat-square)
+![CSPO](https://img.shields.io/badge/CSPO%20(Scrum%20Alliance)-0F2027?style=flat-square)
 ![SAFe](https://img.shields.io/badge/Scaled%20Agile%20(SAFe)-0F2027?style=flat-square)
 
 ---
@@ -83,17 +84,6 @@ Currently **Technical Senior Scrum Master / Delivery Lead** at The Home Depot Ca
 <img src="https://streak-stats.demolab.com?user=ismailkhan313&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 </div>
-
----
-
-## Featured Work
-
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **[nasikh-nexus](https://github.com/ismailkhan313/nasikh-nexus)** | Toolkit for processing classical Arabic content into English — timestamped bilingual audio transcription via Whisper.cpp, plus high-precision OCR of scanned Arabic manuscripts via Mistral. | Python, Whisper.cpp, Mistral OCR |
-| **[ismailkhan.xyz](https://github.com/ismailkhan313/ismailkhan.xyz)** | Personal site and portfolio. | TypeScript |
-| **[published-vault](https://github.com/ismailkhan313/published-vault)** | Obsidian vault backing my Quartz blog and Substack newsletter. | Obsidian, Quartz |
-| **[thd-wdio-v8](https://github.com/ismailkhan313/thd-wdio-v8)** | WebdriverIO v8 end-to-end automation framework built for homedepot.ca. | JavaScript, WebdriverIO, Mocha BDD |
 
 ---
 
